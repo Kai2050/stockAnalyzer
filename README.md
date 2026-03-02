@@ -72,7 +72,7 @@ Follow these steps to get the application running locally:
 ├── app.py                # FastAPI backend server
 ├── requirements.txt      # Python dependencies
 ├── venv/                 # Python virtual environment
-├── stock_analyzer.ipynb  # Original research notebook
+├── stock_analyzer.ipynb  # Legacy research notebook (Not required to run)
 └── frontend/             # React application source code
     ├── src/              # React components and logic
     ├── tailwind.config.js # Tailwind CSS 4.0 config
